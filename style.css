@@ -149,7 +149,7 @@
 
 .education-section {
   background-color: #b64747;
-  padding: 35px 5px;
+  padding: 5px 5px;
   margin-top: 70px;
   margin-left: 60px;
   margin-right: 60px;
@@ -179,7 +179,6 @@
   font-family: Arial, Helvetica, sans-serif;
   font-weight: 400;
   color: #ffd700;
-  
 }
 .project-section{
   background-color: rgb(12, 104, 73);
@@ -361,3 +360,4 @@ body{
   }
 
 }
+
